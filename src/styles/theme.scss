@@ -1,0 +1,11 @@
+$primary-custom: #31AF7D;
+$success-custom: #32364D;
+$light-custom: whitesmoke;
+
+$theme-colors: (
+        primary: $primary-custom,
+        success: $success-custom,
+        light: $light-custom
+);
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
